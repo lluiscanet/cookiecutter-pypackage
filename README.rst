@@ -25,7 +25,6 @@ Then:
 * Release your package the standard Python way. Here's a release checklist: https://gist.github.com/audreyr/5990987
 
 
-.. _Travis-CI: http://travis-ci.org/
 .. _Tox: http://testrun.org/tox/
 .. _Sphinx: http://sphinx-doc.org/
 .. _ReadTheDocs: https://readthedocs.org/
