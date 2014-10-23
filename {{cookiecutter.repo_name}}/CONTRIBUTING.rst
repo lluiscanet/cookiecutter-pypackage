@@ -78,7 +78,6 @@ Ready to contribute? Here's how to set up `{{ cookiecutter.repo_name }}` for loc
 
     $ flake8 {{ cookiecutter.repo_name }} tests
     $ python setup.py test
-    $ tox
 
    To get flake8 and tox, just pip install them into your virtualenv.
 
